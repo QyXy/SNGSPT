@@ -4,10 +4,6 @@ These files are for internal use only and are meaningless without the custom lau
 
 ----------------------------------------------------
 
-link.txt = link where Update.zip is downloaded from
-
-updaterlink.txt = link where launcher updates are downloaded from
-
 version.txt = current Update.zip version
 
 updaterversion.txt = current updater version
