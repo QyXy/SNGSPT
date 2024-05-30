@@ -8,6 +8,6 @@ link.txt = link where Update.zip is downloaded from
 
 updaterlink.txt = link where launcher updates are downloaded from
 
-version.txt = current update.zip version
+version.txt = current Update.zip version
 
 updaterversion.txt = current updater version
