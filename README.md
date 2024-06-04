@@ -4,6 +4,8 @@ These files are for internal use only and are meaningless without the custom lau
 
 ----------------------------------------------------
 
-version.txt = current Update.zip version
+modversion.txt = current update.zip version
+
+cacheversion.txt = current cache.zip version
 
 updaterversion.txt = current updater version
